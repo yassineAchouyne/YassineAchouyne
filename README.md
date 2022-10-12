@@ -23,11 +23,11 @@
 <div> 
  
   <a href = "mailto:yassine.achouyne2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/soulaimane-elamini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yassine-achouyne-997a71239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-   ![Snake animation](https://github.com/ElaminiSoulaimane/ElaminiSoulaimane/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/YassineAchouyne2022/YassineAchouyne2022/blob/output/github-contribution-grid-snake.svg)
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElaminiSoulaimane&theme=github_dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne2022&theme=github_dark">
  
 </div>
