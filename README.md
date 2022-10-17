@@ -26,7 +26,11 @@
   <a href="https://www.linkedin.com/in/yassine-achouyne-997a71239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-   ![Snake animation](https://github.com/YassineAchouyne2022/YassineAchouyne2022/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne2022&theme=github_dark">
  
