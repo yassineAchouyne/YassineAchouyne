@@ -31,8 +31,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=YassineAchouyne2022&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YassineAchouyne2022&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne2022&theme=github_dark">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne2022&theme=github">
  
 </div>
