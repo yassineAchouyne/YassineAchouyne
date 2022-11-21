@@ -1,9 +1,9 @@
 ### Hi YASSINE ACHOUYNE 👋
 
 <div align="center">
-  <a href="https://github.com/YassineAchouyne2022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineAchouyne2022&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAchouyne2022&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/YassineAchouyne">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineAchouyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineAchouyne&layout=compact&langs_count=7&theme=github_dark"/>
   
 </div>
   
@@ -31,8 +31,8 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
- <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YassineAchouyne2022&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
+ <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=YassineAchouyne&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne2022&theme=github">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineAchouyne&theme=github">
  
 </div>
